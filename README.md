@@ -34,7 +34,7 @@ Each image in the dataset is accompanied by detailed JSON files that provide pix
 
 You can download the LOCO-Annotations dataset from the following link:
 
-[Download LOCO-Annotations]([https://github.com/yourusername/LOCO-Annotations/releases/download/v1.0/loco-annotations.zip](https://drive.google.com/file/d/1LjsX6bmpC1IIipQSlcq1RwfNC78R0iU-/view?usp=drive_link))
+[Download LOCO-Annotations][([https://github.com/yourusername/LOCO-Annotations/releases/download/v1.0/loco-annotations.zip]())](https://drive.google.com/file/d/1LjsX6bmpC1IIipQSlcq1RwfNC78R0iU-/view?usp=drive_link)
 
 ### Evaluation
 
