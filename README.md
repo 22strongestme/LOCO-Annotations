@@ -45,6 +45,7 @@ The dataset can be used for evaluating logical anomaly detection frameworks by c
 
 If you use this dataset in your research, please cite the following paper:
 [Logicode](https://arxiv.org/abs/2406.04687)
+```bibtex
 @misc{zhang2024logicode,
   title={LogiCode: an LLM-Driven Framework for Logical Anomaly Detection},
   author={Yiheng Zhang and Yunkang Cao and Xiaohao Xu and Weiming Shen},
@@ -53,4 +54,5 @@ If you use this dataset in your research, please cite the following paper:
   archivePrefix={arXiv},
   primaryClass={cs.LG}
 }
+
 
