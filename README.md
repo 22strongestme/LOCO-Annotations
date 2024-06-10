@@ -34,7 +34,7 @@ Each image in the dataset is accompanied by detailed JSON files that provide pix
 
 You can download the LOCO-Annotations dataset from the following link:
 
-[Download LOCO-Annotations][([https://github.com/yourusername/LOCO-Annotations/releases/download/v1.0/loco-annotations.zip]())]
+[Download LOCO-Annotations](https://drive.google.com/file/d/1LjsX6bmpC1IIipQSlcq1RwfNC78R0iU-/view?usp=drive_link)
 
 ### Evaluation
 
@@ -44,7 +44,7 @@ The dataset can be used for evaluating logical anomaly detection frameworks by c
 ## Citation
 
 If you use this dataset in your research, please cite the following paper:
-[https://arxiv.org/abs/2406.04687](https://arxiv.org/abs/2406.04687)
+[Logicode](https://arxiv.org/abs/2406.04687)
 @misc{zhang2024logicode,
       title={LogiCode: an LLM-Driven Framework for Logical Anomaly Detection}, 
       author={Yiheng Zhang and Yunkang Cao and Xiaohao Xu and Weiming Shen},
