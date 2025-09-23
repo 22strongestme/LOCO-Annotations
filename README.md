@@ -44,15 +44,18 @@ The dataset can be used for evaluating logical anomaly detection frameworks by c
 ## Citation
 
 If you use this dataset in your research, please cite the following paper:
-[Logicode](https://arxiv.org/abs/2406.04687)
+[Logicode](https://ieeexplore.ieee.org/document/10710633/citations?tabFilter=papers#citations)
 ```bibtex
-@misc{zhang2024logicode,
-  title={LogiCode: an LLM-Driven Framework for Logical Anomaly Detection},
-  author={Yiheng Zhang and Yunkang Cao and Xiaohao Xu and Weiming Shen},
-  year={2024},
-  eprint={2406.04687},
-  archivePrefix={arXiv},
-  primaryClass={cs.LG}
-}
+@ARTICLE{10710633,
+  author={Zhang, Yiheng and Cao, Yunkang and Xu, Xiaohao and Shen, Weiming},
+  journal={IEEE Transactions on Automation Science and Engineering}, 
+  title={LogiCode: An LLM-Driven Framework for Logical Anomaly Detection}, 
+  year={2025},
+  volume={22},
+  number={},
+  pages={7712-7723},
+  keywords={Anomaly detection;Codes;Cognition;Visualization;Semantics;Logic;Image reconstruction;Automation;Accuracy;Benchmark testing;Logical anomaly detection;large language models;industrial anomaly detection;dataset annotation},
+  doi={10.1109/TASE.2024.3468464}}
+
 
 
